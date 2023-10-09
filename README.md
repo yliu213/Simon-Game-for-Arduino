@@ -1,7 +1,7 @@
 # Simon Game for Arduino
 
-![Project Image](project_image.jpg)
 
+Vedio demo for difficulty level 1: https://drive.google.com/file/d/1AJOK6Fd9N_aRz3EvveTHq3xZW6h7Eyrp/view?usp=sharing
 A classic Simon Game implementation for Arduino using a 16x2 LCD display and four buttons. Test your memory and reflexes by repeating the sequence displayed by the game!
 
 ## Introduction
@@ -18,7 +18,7 @@ To build and play the Simon Game, you will need the following components:
 - Breadboard or custom circuit board
 - Resistor (for button pull-up or pull-down)
 
-Ciruit diagram available at Schematic foolder
+Ciruit diagram available at Schematics.jpg in the repository.
 
 ## Setup Instructions
 Follow these steps to set up the Simon Game on your Arduino:
