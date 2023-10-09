@@ -1,7 +1,6 @@
 # Simon Game for Arduino
 
-
-Vedio demo for difficulty level 1: https://drive.google.com/file/d/1AJOK6Fd9N_aRz3EvveTHq3xZW6h7Eyrp/view?usp=sharing
+![IMG_20231008_204128](https://github.com/yliu213/Simon-Game-for-Arduino/assets/129010520/1f0d30b6-43e6-4704-a4db-fe76bfb2439d)
 A classic Simon Game implementation for Arduino using a 16x2 LCD display and four buttons. Test your memory and reflexes by repeating the sequence displayed by the game!
 
 ## Introduction
@@ -27,6 +26,7 @@ Follow these steps to set up the Simon Game on your Arduino:
 3. **Upload the Code:** Open the Arduino sketch provided in this repository (`simon_game.ino`) in the Arduino IDE and upload it to your Arduino board.
 4. **Power On** Connect your Arduino to a power source.
 5. **Play the Game:** Follow the on-screen instructions to select the difficulty level and start playing.
+Vedio demo for difficulty level 1: https://drive.google.com/file/d/1AJOK6Fd9N_aRz3EvveTHq3xZW6h7Eyrp/view?usp=sharing
 
 ## Usage
 1. **Difficulty Selection:** Press the buttons corresponding to the difficulty levels displayed on the LCD.
